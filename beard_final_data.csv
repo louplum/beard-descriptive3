@@ -1,0 +1,13 @@
+language - ego,M=MZ,F=FB,M=/=MZ,F=/=FB,"B=FBS, FBD or B=MZS, MZD","B=FBS, FBD, FZS, FZD, MBS, MBD, MZS, MZD",no distinction between ego sex,"no distinction between ego generation, same sex","no distinction between ego generation, opposite sex",comments,,,,,,,
+Ikpeng - m,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,final phoneme diff. ,F = FBD,"imï - m: F, FB, FZS","B=FBS, MZS","Z=FBD, MZD","imï - m: F, FB, FZS","je - m: M, MZ","inut - m: FM, MM, FZ, FZD"
+Ikpeng - f,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,final phoneme diff. FZS,,"B=FBS, MZS ","Z=FBD, MZD","imï - f: F, FB, FZS","je - f: M, MZ","inut - f: FM, MM, FZ, FZD",
+Katawian - m,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,"Term 'oyepeka': cross-cousin or opposite-sex sibling. Crow and Omaha kinship elements, see p. 106",,,,,,,
+Katawian - f,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,"Term 'oyakno': parallel cousin or same-sex sibling. Crow and Omaha kinship elements, see p. 106",,,,,,,
+Panare - m,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,Column H is TRUE for all non-nuclearl terms inside same generation (Hawaiianization),,,,,,,
+Panare - f,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,Column H is TRUE for all non-nuclearl terms inside same generation (Hawaiianization),,,,,,,
+Pará_Arára - m,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,F 'papa' or 'imï',FF 'itamru' or 'tamko',"FM, MM 'empɨ,' 'eŋpɨ' or 'engpi'","M, FZ, MZ 'je' or 'jemeje'","FB, MB 'awon'; 'iru' used for male ego; see p. 109",,,
+Pará_Arára - f,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,F 'papa' or 'imï',FF 'itamru' or 'tamko',"FM, MM 'empɨ,' 'eŋpɨ' or 'engpi'","M, FZ, MZ 'je' or 'jemeje'","FB, MB 'awon'",,,
+Trío - m,TRUE,TRUE,TRUE,TRUE,NA,FALSE,FALSE,FALSE,FALSE,"Reciprocal term, lit. 'brother, comrade'; used betwen men without determined relationship. This term also used when Trió addresses Waiyana",,,,,,,
+Trío - f,NA,NA,NA,NA,NA,NA,NA,NA,NA,Source did not provide much data for female ego,,,,,,,
+Waiwai - m,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,"Column H TRUE for non-affinal, outside of same generation",,,,,,,
+Waiwai - f,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,Column F and G are TRUE for female ego if sourced from same-sex sibling. Column H is TRUE for all non-affinal terms outside of same generation.,,,,,,,
